@@ -62,7 +62,7 @@ Now, please note that CHROMA involves very intricate layouts as they massively r
 
 ## Known issues
 
-- Home menu crashes after uninstalling a game (under investigation)
+- (under investigation) Home menu crashes after uninstalling a game. Game still gets uninstalled after reboot though.
 - In the sidebar layout, the games scrolling will behave weirdly if the sidebar is accessed through some particular ways. It doesn't affect the navigation that much and there's a chance you won't even notice. This issue actually arose in Unison R as well, and unfortunately I have no solution to prevent this behavior.
 
 ## Changelog
